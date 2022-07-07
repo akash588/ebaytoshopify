@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@chilkat/ck-node16-win64": "^9.50.91",
+    "@shopify/shopify-api": "^3.1.3",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "cron": "^2.0.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.3.5",
+    "nodemailer": "^6.7.5",
+    "shopify-api-node": "^3.9.0",
+    "xml2js": "^0.4.23"
+  }
+}
